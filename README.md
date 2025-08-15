@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Aleena Joseph
+#  Hi, I'm Aleena Joseph
 
-✨ *Turning ideas into code & code into impact.*
+*Turning ideas into code & code into impact.*
 
 I'm a full-stack developer and Computer Science undergrad at GCT Coimbatore. Currently an engineering intern at **C1X ADTECH**, I'm passionate about building intuitive web apps, AI-powered tools, and student-focused learning platforms.
 
@@ -10,9 +10,9 @@ I'm a full-stack developer and Computer Science undergrad at GCT Coimbatore. Cur
 ## 🛠️ Tech Stack
 
 - **Languages:** TypeScript, JavaScript, Java, C , Python, C++
-- **Frameworks:** Next.js, Angular, Node.js, Express.js, Nest.js
+- **Frameworks:** Next.js, Angular, Nest.js, Node.js, Express.js
 - **Databases:** MySQL, MongoDB
-- **Other:** HTML, SCSS, LaTeX
+- **Other:** HTML, SCSS
 
 ---
 
@@ -21,8 +21,8 @@ I'm a full-stack developer and Computer Science undergrad at GCT Coimbatore. Cur
 ### 🎨 [Pcaisso](https://pcaisso.vercel.app/)
 AI-powered art, 3D graphics, and game generator using code-based prompts and LLMs like GPT-4o & Claude.
 
-### 📖 [Rapid Solver](https://github.com/rmadhuram/rapidsolver-next)
-A smart study tool offering timed MCQ tests for exam prep and performance tracking.
+### 📖 [AI Meeting Scheduler](https://youtu.be/jStKThgJs8s)
+An AI-powered Personalized Virtual Secretary platform designed to streamline client–professional interactions.
 
 ### ✨ [Bible Millionaire](https://youtu.be/YqYzkxeswt8)
 An interactive trivia game built for a community event — dynamic scoring, timed questions, and multiple levels.
