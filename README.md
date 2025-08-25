@@ -1,15 +1,15 @@
 
 #  Hi, I'm Aleena Joseph
 
-*Turning ideas into code & code into impact.*
+*Writing my life using 0s and 1s.*
 
-I'm a full-stack developer and Computer Science undergrad at GCT Coimbatore. Currently an engineering intern at **C1X ADTECH**, I'm passionate about building intuitive web apps, AI-powered tools, and student-focused learning platforms.
+I'm a full-stack developer and Computer Science undergrad at GCT Coimbatore. I'm passionate about building intuitive web apps and AI-powered tools.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Java, C , Python, C++
+- **Languages:** TypeScript, JavaScript, C, Java, Python, C++
 - **Frameworks:** Next.js, Angular, Nest.js, Node.js, Express.js
 - **Databases:** MySQL, MongoDB
 - **Other:** HTML, SCSS
@@ -37,4 +37,4 @@ Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleena-joseph-918072258/)  
 ---
 
-Thanks for stopping by! 🌱  
+Thanks for stopping by!  
