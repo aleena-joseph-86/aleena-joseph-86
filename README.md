@@ -36,5 +36,3 @@ Connect with me
 - 📧 jaleena727@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleena-joseph-918072258/)  
 ---
-
-Thanks for stopping by!  
