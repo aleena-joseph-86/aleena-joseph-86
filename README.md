@@ -1,7 +1,7 @@
 
 #  Hi, I'm Aleena Joseph
 
-*I write TypeScript for a living and care a lot about building things that are fast, clean, and actually useful*
+I write TypeScript for a living and care a lot about building things that are fast, clean, and actually useful
 
 On the frontend, I work with Next.js, React.js, React Native, and Angular - building everything from CRM dashboards and analytics visualizations to Chrome extensions and mobile apps. 
 
